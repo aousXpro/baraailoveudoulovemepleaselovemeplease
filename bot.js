@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const myid = ['ID'];
+const myid = ['745547088976412713'];
 const prefix = ['$'];
 const client = new Discord.Client();
 const client2 = new Discord.Client();
@@ -185,7 +185,9 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**براءة أوس يحبك
+                              ily Baraa
+                              <3 <3 <3 <3 <3 <3 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -199,7 +201,9 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**براءة أوس يحبك
+                              ily Baraa
+                              <3 <3 <3 <3 <3 <3 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -213,7 +217,9 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**براءة أوس يحبك
+                              ily Baraa
+                              <3 <3 <3 <3 <3 <3 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -227,7 +233,9 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**براءة أوس يحبك
+                              ily Baraa
+                              <3 <3 <3 <3 <3 <3 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -241,7 +249,9 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**براءة أوس يحبك
+                              ily Baraa
+                              <3 <3 <3 <3 <3 <3 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -255,7 +265,9 @@ if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**براءة أوس يحبك
+                              ily Baraa
+                              <3 <3 <3 <3 <3 <3 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
